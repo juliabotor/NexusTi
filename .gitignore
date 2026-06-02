@@ -1,0 +1,25 @@
+# Dependências
+node_modules/
+
+# Build
+build/
+dist/
+
+# Banco local
+*.db
+*.sqlite
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
